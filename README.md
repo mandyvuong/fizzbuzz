@@ -23,7 +23,7 @@ git clone git@github.com:mandyvuong/fizzbuzz.git
 cd fizzbuzz
 ```
 
-Play in interactive ruby shell (irb):
+Use in interactive ruby shell (irb):
 
 ```shell
 irb
